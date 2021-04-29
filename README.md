@@ -44,5 +44,5 @@ https://music.bugs.co.kr/
 
 - 하늘, 바람, 빛, 행복등의 단어의 조합으로 구성된 노래 가사들이 많았다.
 
-#### 최종 PPT
+#### [최종 PPT](https://github.com/jaaaamj0711/Bugs_Textdata_Analysis/blob/main/%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A1%E1%86%A8%20%E1%84%8E%E1%85%A1%E1%84%90%E1%85%B3%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20(1).pdf)
 
