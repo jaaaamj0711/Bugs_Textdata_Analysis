@@ -1,6 +1,5 @@
 # Bugs 음악 스트리밍 사이트 분석
-![image](https://user-images.githubusercontent.com/55734436/116523209-f0d51780-a910-11eb-9c84-e92597e895be.png)
-
+![image](https://user-images.githubusercontent.com/55734436/116523902-b7e97280-a911-11eb-8f5e-40e8ec32c6a9.png)
 
 ## 분석 목표
 
